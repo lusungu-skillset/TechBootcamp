@@ -147,7 +147,7 @@ export default function BootcampRegistration() {
                       id="name"
                       name="name"
                       type="text"
-                      placeholder="John Doe"
+                      placeholder="paul tech"
                       required
                       onFocus={() => setFocusedField('name')}
                       onBlur={() => setFocusedField('')}
@@ -170,7 +170,7 @@ export default function BootcampRegistration() {
                       id="email"
                       name="email"
                       type="email"
-                      placeholder="john@example.com"
+                      placeholder="tech@example.com"
                       required
                       onFocus={() => setFocusedField('email')}
                       onBlur={() => setFocusedField('')}
@@ -193,7 +193,7 @@ export default function BootcampRegistration() {
                       id="phone"
                       name="phone"
                       type="tel"
-                      placeholder="+1 (555) 000-0000"
+                      placeholder="+265 99 000-0000"
                       required
                       onFocus={() => setFocusedField('phone')}
                       onBlur={() => setFocusedField('')}
@@ -266,7 +266,7 @@ export default function BootcampRegistration() {
                 href="mailto:info@techpact.com" 
                 className="text-[#d4af37] hover:text-[#e5c158] underline transition-colors"
               >
-                info@techpact.com
+                techpact25@gmail.com
               </a>
             </p>
           </div>
